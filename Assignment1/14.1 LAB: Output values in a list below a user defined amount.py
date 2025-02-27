@@ -11,6 +11,6 @@ for x in range(num_int):
     if values[x] <= threshold:
         print(f"{values[x]},", end="")
 
-print()
+
 
 
